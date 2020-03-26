@@ -1,0 +1,5 @@
+NAME:Blessing Enoabasi Uwak.
+E-MAIL:blessinguwak1@gmail.com
+SLACK USERNAME:Lioness.
+TRACKS: CODING, FRONT-END, BACK-END.
+COURSES: HTML, CSS, JAVASCRIPT and PYTHON.
